@@ -1,0 +1,38 @@
+C:\Users\Mephistos\source\repos\Redactor\bin\Debug\netcoreapp3.1\Redactor.exe
+C:\Users\Mephistos\source\repos\Redactor\bin\Debug\netcoreapp3.1\Redactor.deps.json
+C:\Users\Mephistos\source\repos\Redactor\bin\Debug\netcoreapp3.1\Redactor.runtimeconfig.json
+C:\Users\Mephistos\source\repos\Redactor\bin\Debug\netcoreapp3.1\Redactor.runtimeconfig.dev.json
+C:\Users\Mephistos\source\repos\Redactor\bin\Debug\netcoreapp3.1\Redactor.dll
+C:\Users\Mephistos\source\repos\Redactor\bin\Debug\netcoreapp3.1\Redactor.pdb
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\Redactor_MarkupCompile.cache
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\Redactor_MarkupCompile.lref
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\Redactor.g.resources
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\Redactor.AssemblyInfoInputs.cache
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\Redactor.AssemblyInfo.cs
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\Redactor.csproj.CoreCompileInputs.cache
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\Redactor.dll
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\Redactor.pdb
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\Redactor.genruntimeconfig.cache
+C:\Users\Mephistos\source\repos\Redactor\obj\Debug\netcoreapp3.1\Redactor.csprojAssemblyReference.cache
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\bin\Debug\netcoreapp3.1\Redactor.exe
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\bin\Debug\netcoreapp3.1\Redactor.deps.json
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\bin\Debug\netcoreapp3.1\Redactor.runtimeconfig.json
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\bin\Debug\netcoreapp3.1\Redactor.runtimeconfig.dev.json
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\bin\Debug\netcoreapp3.1\Redactor.dll
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\bin\Debug\netcoreapp3.1\Redactor.pdb
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\Redactor.csprojAssemblyReference.cache
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\Redactor_MarkupCompile.cache
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\Redactor_MarkupCompile.lref
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\Redactor.g.resources
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\Redactor.AssemblyInfoInputs.cache
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\Redactor.AssemblyInfo.cs
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\Redactor.csproj.CoreCompileInputs.cache
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\Redactor.dll
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\Redactor.pdb
+C:\Users\rukzw\OneDrive\Рабочий стол\Системное\redactor-master\obj\Debug\netcoreapp3.1\Redactor.genruntimeconfig.cache
